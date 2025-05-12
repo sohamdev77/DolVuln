@@ -12,7 +12,7 @@ DolVuln is a simple, yet effective, web vulnerability scanner that helps identif
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DolVuln.git
+   git clone https://github.com/sohamdev77/DolVuln.git
    cd DolVuln
 Install required dependencies:
 
